@@ -70,13 +70,26 @@ nav ul li a {
 
 nav ul li a:hover {
 
-	background-color:#666; 
+	background-color:hwb(0 40% 60%); 
 
 	display:block;
 
 }
 
+.cards {
 
+	text-align: center;
+	margin-bottom: 150px;
+
+}
+
+.rounded {
+
+	border-radius: 10px;
+	margin-left: 25px;
+	margin-top: 50px;
+	
+}
 
 nav ul li:hover ul {
 
